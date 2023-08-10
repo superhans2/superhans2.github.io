@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-06-23 Fri 18:45 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Acorn Uk</title>
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Acorn Uk</h1>
+
+<div id="outline-container-orgf6f513b" class="outline-2">
+<h2 id="orgf6f513b"><span class="todo TODO">TODO</span> Acorn Oxford, Abersywythe, Lancaster are destroyed</h2>
+<div class="outline-text-2" id="text-orgf6f513b">
+<p>
+Multiple branches were destroyed by ACORN National, although in slightly different circumstances. The Oxford one the branch wasn't actually destroyed, but all the active members quit, and it was replaced (by a single staff member?) who continued to run a zombie branch (and as far as I know, it still is a zombie branch). The Abersywythe one was deleted overnight for financial reasons. All of the branch social media sites were controlled by National and deleted. I'm not sure what happened in the Lancaster branch, because I haven't come across any statement put out by them.
+</p>
+
+<p>
+<a href="resources/copy-of-acorn-oxford-demands.pdf">Oxford Demand Letter</a> (I've cut out the signatures from the document).
+</p>
+
+<p>
+<a href="resources/acorn-aberystwyth.pdf">Acorn Abersywythe statement</a> (same thing is also explained in a)
+</p>
+
+<p>
+<img src="images/fuzzy picture.jpg" alt="fuzzy picture.jpg" />
+<img src="images/translated-from-welsh-article.jpg" alt="translated-from-welsh-article.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfe62014" class="outline-2">
+<h2 id="orgfe62014"><span class="todo TODO">TODO</span> Interference in the democratic processes</h2>
+<div class="outline-text-2" id="text-orgfe62014">
+<p>
+The National Conference this year has been suspended. Previous motions to change Acorn's structure were not allowed. Paid staff who are meant to be helping branches instead are used to rig elections, e.g. campaigning secretly against motions such as the Palestine motion or the Open-Border motion.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5bb0309" class="outline-2">
+<h2 id="org5bb0309"><span class="todo TODO">TODO</span> Exploiting staffer</h2>
+<div class="outline-text-2" id="text-org5bb0309">
+<p>
+Acorn UK affiliates with Wade Rathke who has track record of union busting. I've heard that junior staff organisers are underpaid and overworked although like all discussion in the union, it is kept hush-hush, and there is no way to substantiate any allegations. Is this a systemic issue?
+</p>
+</div>
+</div>
+
+<div id="outline-container-org635b8a6" class="outline-2">
+<h2 id="org635b8a6"><span class="todo TODO">TODO</span> No discussion, self-reflection or even communication between different branches is allowed?</h2>
+<div class="outline-text-2" id="text-org635b8a6">
+<p>
+I don't get why the members who left Acorn in my branch left so quietly, same applies for Acorn Oxford. I feel like I'm taking crazy pills talking to members in Acorn today who want to keep all the issues we're facing as an organisation secret. How will most members even know there is a problem if we don't ever acknowledge it?
+</p>
+
+<p>
+Bafflingly one of the demands of the Oxford is to talk
+</p>
+
+<p>
+I feel like I understand just tip of the iceberg when it comes to understanding what's going on and why. As I find out more, I will add to this site.
+</p>
+
+<p>
+Some of the discussions that have resulted in member repression is around Refugee and declaring solidarity with Palestine.
+</p>
+
+<p>
+Issue is not <i>necessarily</i> with some of the strategic decisions that National have taken - I understand the arguments as to why taking explicitly communist policies (having official positions in-solidarity with immigrants, Palestine solidarity) - it is more that the . It is like there is a suspicion of the membership itself, like every single conversation is happening in
+</p>
+
+<p>
+The branch
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd64dd39" class="outline-2">
+<h2 id="orgd64dd39"><span class="todo TODO">TODO</span> Financially opaque</h2>
+<div class="outline-text-2" id="text-orgd64dd39">
+<p>
+The following claims are from a single person. I trust them, but it would be important to actually substantiate some of these, as I don't know if its precisely correct. The claims are as follows:
+</p>
+<ul class="org-ul">
+<li>Acorn UK do not get all their funding from member dues, instead 40% of the funds are from external organisations including the Rosa Luxemberg Institute</li>
+<li>Acorn National suppressed a motion that had been put forward by the Leeds (?) branch which would have made it necessary to disclose these sources.</li>
+</ul>
+
+<p>
+Is it true that Acorn get
+</p>
+
+<p>
+Another point around money which is not
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3ef3acf" class="outline-2">
+<h2 id="org3ef3acf"><span class="todo TODO">TODO</span> big red flag: following in the footsteps of Acorn US?</h2>
+<div class="outline-text-2" id="text-org3ef3acf">
+<p>
+Im a member of ACORN UK and am concerned that the union we are trying to copy ACORN US which seems to have had issues. I am particularly spooked by the fact that Acorn UK's National level leadership seem to be very close to Wade Rithke, the former head organiser of ACORN US and current head organiser of ACORN International. The issues with Wade Rithke
+</p>
+
+<p>
+What happened to Acorn US, and is Acorn US similar in anyway to Acorn UK?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd9fe135" class="outline-2">
+<h2 id="orgd9fe135"><span class="todo TODO">TODO</span> Issues not directly related to National</h2>
+<div class="outline-text-2" id="text-orgd9fe135">
+<p>
+There are myriad issues that are not apparently caused by ACORN's inherent structure or from ACORN National seemingly sabotaging things.
+As a general rule, the issues I speak about will apply to my local branch, and I may have a hazy understanding that these issues are shared across the entire organisation (or at least this is my assumption, which I am happy for people to challenge).
+</p>
+</div>
+
+<div id="outline-container-orgbe75d05" class="outline-3">
+<h3 id="orgbe75d05"><span class="todo TODO">TODO</span> Membership stagnation</h3>
+</div>
+<div id="outline-container-org3b250d2" class="outline-3">
+<h3 id="org3b250d2"><span class="todo TODO">TODO</span> low capacity</h3>
+</div>
+<div id="outline-container-orgc7df05c" class="outline-3">
+<h3 id="orgc7df05c"><span class="todo TODO">TODO</span> Confusion on what we are actually meant to be doing?</h3>
+<div class="outline-text-3" id="text-orgc7df05c">
+<p>
+What is a "community organisation"?
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org149083f" class="outline-2">
+<h2 id="org149083f"><span class="todo TODO">TODO</span> Summary</h2>
+<div class="outline-text-2" id="text-org149083f">
+<p>
+Acorn UK has so many issues. The branch I'm in is a major city (in top 20 most populated cities in the UK) but we handle maybe one or two member defense cases a month. We have been unable to grow membership at all in the past few years. Active members dwindle.
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2023-06-23 Fri 18:45</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

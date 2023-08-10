@@ -1,0 +1,78 @@
+/* Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  color: #333333;
+  background-color: #F5F5F5;
+}
+
+/* Header Styles */
+header {
+  background-color: #FF4081;
+  padding: 20px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 30px;
+}
+
+/* Content Styles */
+.content {
+  margin: 20px;
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.content h2 {
+  font-size: 24px;
+  color: #FF4081;
+  margin-top: 0;
+}
+
+.content p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333333;
+}
+
+.content a {
+  color: #FF4081;
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+/* Code Block Styles */
+pre {
+  background-color: #F9F9F9;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+}
+
+pre code {
+  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+  font-size: 14px;
+  color: #333333;
+}
+
+/* Callout Styles */
+.callout {
+  background-color: #FFEB3B;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 5px;
+}
+
+.callout p {
+  margin: 0;
+}
+
+.callout.warning {
+  background-color: #FF5722;
+}
