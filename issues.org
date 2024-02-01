@@ -11,17 +11,17 @@ The issues are only discussed when we end the meeting and go to the pub where it
 * Issues
 ** Several branches are destroyed
 *** Oxford
-[[file:../resources/demand letters/copy-of-acorn-oxford-demands.pdf][Oxford demand letter]]
+[[file:resources/demand letters/copy-of-acorn-oxford-demands.pdf][Oxford demand letter]]
 
 *** Aberystwyth
 #+attr_html: :width 95%
-[[../images/fuzzy picture.jpg]]
+[[./images/fuzzy picture.jpg]]
 
 #+attr_html: :width 95%
-[[../images/translated-from-welsh-article.jpg]]
+[[./images/translated-from-welsh-article.jpg]]
 
 *** Lancaster and Morecambe
-[[file:~/code/what is up with acorn website/resources/demand letters/Lancaster & Morecambe Letter.pdf][Lancaster & Morecambe resignation letter]]
+[[file:./resources/demand letters/Lancaster & Morecambe Letter.pdf][Lancaster & Morecambe resignation letter]]
 
 ** Anti-democratic?
 The 2023 National Conference last year was suspended. I have been told that the organisation's Bylaws were edited for the 2022 National Conference to disallow changes to the organisations structure, and edited again to no-longer make the conference annual.
