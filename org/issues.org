@@ -1,7 +1,4 @@
-#+title: What is up with ACORN UK?
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
-#+OPTIONS: num:nil
-#+OPTIONS: toc:nil
+#+title: Major issues with ACORN UK
 
 ACORN is a community union with a focus on using direct action to defend tenants from from landlords who are refusing repairs, hiking rents, eviction, etc. If you don't know what ACORN UK is, this article by Callum Cant is a good explanation https://notesfrombelow.org/article/taking-whats-ours-an-acorn-inquiry.
 
@@ -14,25 +11,20 @@ The issues are only discussed when we end the meeting and go to the pub where it
 * Issues
 ** Several branches are destroyed
 *** Oxford
-[[file:resources/copy-of-acorn-oxford-demands.pdf][Oxford Demand Letter]]
+[[file:../resources/demand letters/copy-of-acorn-oxford-demands.pdf][Oxford demand letter]]
 
 *** Aberystwyth
-[[file:resources/acorn-aberystwyth.pdf][Acorn Abersywythe statement]]
+#+attr_html: :width 95%
+[[../images/fuzzy picture.jpg]]
 
-#+attr_html: :width 500px
-[[file:images/fuzzy picture.jpg]]
-
-#+attr_html: :width 500px
-[[file:images/translated-from-welsh-article.jpg]]
+#+attr_html: :width 95%
+[[../images/translated-from-welsh-article.jpg]]
 
 *** Lancaster and Morecambe
-[[file:resources/Lancaster & Morecambe Letter.pdf][Lancaster committee resignation Letter]]
-
-*** Others?
-I have heard that others have collapsed (Newcastle, Manchester) but nothing yet to evidence this.
+[[file:~/code/what is up with acorn website/resources/demand letters/Lancaster & Morecambe Letter.pdf][Lancaster & Morecambe resignation letter]]
 
 ** Anti-democratic?
-The 2023 National Conference this year has been suspended. I have been told that the organisation's Bylaws were edited for the 2022 National Conference to disallow changes to the organisations structure, and edited again to no-longer make the conference annual.
+The 2023 National Conference last year was suspended. I have been told that the organisation's Bylaws were edited for the 2022 National Conference to disallow changes to the organisations structure, and edited again to no-longer make the conference annual.
 
 Accusations of ACORN's anti-democratic nature in the Oxford and Lancaster letters.
 
@@ -40,6 +32,7 @@ Accusations of ACORN's anti-democratic nature in the Oxford and Lancaster letter
 An example of how broken communication is within ACORN is one of the demands put out by Oxford: /"For the branch to be permitted to organise with members in other branches nationally, including the ability to make group chats and communication channels with other branches without staff oversight"/. Acorn members across branches don't talk to each other, and even within the branch there is poor communication.
 
 This is why National have been able to destroy branches as it is unlikely that the mass membership are ever made aware of it.
+
 
 * Sources
 - https://libcom.org/article/acorn-no-mighty-oak
