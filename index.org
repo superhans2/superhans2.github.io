@@ -1,15 +1,10 @@
-#+title: What is up with ACORN UK?
+#+title: what is up with ACORN?
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
 
 This is personal blog for ideas & resources I think are useful for tenant organising. If people want to help with anything let me know.
 
+* index
 - [[file:issues.org][issues with ACORN]]   <- Read this overview first
 - [[file:reading-list.org][reading list]]
 - [[file:ideas.org][rough ideas]]
 - [[file:mapping acorn.org][ACORN's structure]]
-
-You can see revisions made to this site https://github.com/superhans2/superhans2.github.io.
-
-There is also a Discord that is created by a friend for people interested in tenant organisation that you can reach:
-
-=TODO put in a discord link=

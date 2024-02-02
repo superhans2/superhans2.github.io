@@ -1,0 +1,7 @@
+#+title: about
+
+You can see revisions made to this site https://github.com/superhans2/superhans2.github.io.
+
+There is also a Discord that is created by a friend for people interested in tenant organisation that you can reach:
+
+=TODO put in a discord link=

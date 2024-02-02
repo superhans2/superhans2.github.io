@@ -22,8 +22,9 @@ header h1 {
 
 nav {
   background-color: #FF4081;
-    overflow: hidden;
-    text-align: center; /* Center the navigation links */
+  text-align: left;
+  overflow: hidden;
+  text-align: center; /* Center the navigation links */
 }
 
 nav a {

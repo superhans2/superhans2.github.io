@@ -2,38 +2,99 @@
 #+OPTIONS: toc:1
 #+OPTIONS: tasks:nil
 
-* Mapping ACORN's structure
-Want to create an factual resource that explains ACORN's structure, rules, etc. that all members should get if the handbook was actually accessible. Maybe some explanation of things like what ACORN provides us (e.g. thing about it providing legal insurance, not sure what this was called?) Particular things I'm want to explain about ACORN are things relevant to questions like: can we use ACORN's democratic procedures to reform it and how? or what does ACORN provide us that a branch would lose through disaffiliating.
+* mapping ACORN's structure
+Started working on this here: [[file:mapping acorn.org][mapping acorn page.]]
 
-Started this on this [[file:mapping acorn.org][mapping acorn page.]]
+- Want to create a resource that explains ACORN's structure, legal status, rules, etc.
+- work out the things that ACORN provides us like legal insurance (? forgot name for this)
+- explanation of democratic processes that I know many members intend to use to reform ACORN
+- making this will make it possible to get clarity on questions like:
+  - is ACORN reformable using its democratic processes
+  - what would a branch be losing if they decide to disaffiliate from ACORN (e.g. doing what ACORN Lancaster did or splitters in ACORN Manchester did)
 
-Not sure
+* money questions
+** making it obvious to all members where the money is being spent
+I want to find out how ACORN spends its money, maybe as part of the [[file:mapping acorn.org][mapping acorn page]]. Its almost £1,000,000 per year, where does this all go? Heard someone mention that in previous conference there is pie-chart breaking it down, but like really this should be easily accessible to any member who is interested.
 
-* Finding out what happened to ACORN Oxford
-ACORN Oxford has been described to me as being a very active branch with 200 members and 60 active members (! this is a lot for ACORN branches). When it collapsed (or destroyed by National?) it seems not to have been able to survive (might be because the organisers who set it up all burnt out or there was something that ACORN was providing that they could not replicate on their own).
+** what could the money be used for?
+Given ACORN UK is barely growing and uses paid staff for things like door knocking which they could easily be using volunteers for, I am suspecting they are wasting the money. The people who get the top jobs are all friends with each other, and there is not a lot of turn over of people doing these top jobs (AFAIK).
 
-I want to find out what happened to ACORN Oxford, maybe Youtube mini-documentary style that looks from perspective of different people, e.g. would be great to see it from perspective of the organisers in Oxford, and also speculate/or just ask National's issues with way ACORN operated.
+** who are the third parties funding ACORN?
+Another point, ACORN is not (AFAIK) transparent with where their money is coming from as a big chunk is not from member dues. Are there strings attached to this money? What are the institutions paying us? Been told the Rosa Luxembourg Institute are one example.
+
+* making youtube documentary on ACORN Oxford
+ACORN Oxford (before it was destroyed) was described to me as being a very active branch with 200 members and 60 active members (! this is a lot for ACORN branches). The only information I've come across about how it collapsed is word-of-mouth and the [[file:resources/demand letters/copy-of-acorn-oxford-demands.pdf][demand letter]] that they put out before collapsing.
+
+I want to find out what happened to ACORN Oxford and make mini-youtube documentary, maybe interviewing people who set up ACORN Oxford and made it so active and also why it collapsed.
 
 I think same thing could be done for ACORN Aberyswythe, Lancaster, basically every branch where there has been a significant split or mass exodus of members which also includes (AFAIK) Manchester, Newcastle and Sheffield.
 
-* Reaching out to IWW for comment about Wade
-The https://libcom.org/article/acorn-no-mighty-oak article (and IWW articles available online) depict Wade as a union busting authoritarian. Wade is frequently invited to ACORN UK events though (e.g. turning up to the ACORN Sheffield Annual General Meeting for the end of 2023) and if you ask Nick Ballard about it he will say that the IWW are ultra-leftists and they don't really have a valid criticism, and in fact Wade is a "genius" who deserves his guru status in ACORN UK.
-
-I find the Libcom article more convincing than Nick Ballard's perspective (I have listened to the Wade's World podcast and am not convinced that this man is a genius) but it would be useful to get people from IWW (in London where they fell out )
-
-More generally, I have been informed that ACORN has fallen out with different left wing groups, e.g. IWW branch in UK in
-
-* How do atomised ACORN members organise?
+* how do atomised ACORN members organise?
 If ACORN National is actively hostile to attempts amongst members to democratise the organisation (maybe to hold onto the privileged positions and cushy jobs that make them feel important) then it seems unlikely that they will want members to
 
 This is actually a difficult problem
 
-* TODO What is the best platform for developing ideas?
-In my opinion in person meetings are not
+* Coming up with ideas of things I think could be changed to improve ACORN
+In my opinion, most of these suggestions couldn't happen without first democraticising ACORN because many of the reasons ACORN functions so poorly is deliberate (or at least I suspect), but leaving that aside I have list of things I think could make ACORN run better:
 
-I think the thinking of
+** ACORN Handbook, Bylaws, and Legal Advice shouldn't be on a Google Doc
+Keeping all important and useful information on Google Docs is not the way. A lot of it does not make sense to be kept private, or the reasons for keeping it private are massively outweighed by problems this creates. For example, legal advice to avoid us getting sued. Its nightmare actually finding this. There was a google doc for it but the link randomly changed. The only way for a member to find this is to ask a committee member for it, and like this is a big hassle. Even when you have a link to it it can just randomly change.
 
-I am using this website because there isn't anything else to use, but it isn't great, mainly because it is just for me. If people want to reply to anything I am writing they need to know me. If they want to use this website to host it so that other people can easily access it they need to go through me, so it isn't democratic. Ideally would be some union-wide platform that can be used.
+** Only use staff for things staff /need/ to do
+Currently it seems staff are used for door-knocking. Like this seems like a waste of resources
+** Make a free-tier way to join as a member
+Have a free-tier for people to be involved without having to pay for membership
+
+** How ACORN handles member defense cases that can be improved
+- explain hot take about things that seem obviously counterproductive about how ACORN member defense cases work.
+
+** I'm pretty sure ACORN is doing committees wrong
+I'm not against committees, but I have intuition that way that committees work in ACORN is not remotely how its meant to work.
+
+In branches I've seen
+
+Not sure how this would work, but there
+
+For example, sole function o
+Currently the sole responsibility for agitprop falls f
+
+As far as I know there is big gap in type of training that we do for
+
+Separate the person from the function that they are meant to be doing. The way ACORN currently
+
+* TODO What happened to the 2023 ACORN conference?
+* TODO trying to describe part of ACORN's culture that is so stifling
+* TODO Reform or just split?
+This breaks down into multiple questions, like can ACORN be reformed? There are
+
+* TODO Is Wade Rathke a (union) landlord?
+This seems like could be fun & effective rhetorical device, like painting people who sit at the top of unions and enjoying benefits from this position as being form of landlord.
+
+This is a parallel of what happens to NGOs, and why so many NGOs are ineffective. It is also something heavily theorised
+
+This is also topic I'm assuming has been heavily explored by Marxist/Anarchist theorists in explaining why unions
+
+, to draw a connection between the rent that someone like Wade makes jet setting around globe, drawing a salary from an NGO.
+
+* TODO culture of fear is so stifling
+Everything I've posted on this site is
+
+* TODO discussion on social media and WhatsApp
+I love the [[https://cosmonaut.blog/2021/03/06/the-platform-is-the-message/][cosmonaut article "The platform is the message"]]. It describes some of the difficulties of organising using social media. They use the idea from media studies theory that the "medium is the message": the structure of a communication platform massively shapes the message.
+
+In ACORN context, the only meaningful communication that most members can take part in happens in AMMs.
+
+* TODO Getting IWW to comment on ACORN & Wade Rathke
+Wade Rathke is a guru-like figure who is invited to ACORN events like branch AMMs and the 2022 National Conference and is treated like a celebrity. However, I have serious doubts that he is a "genius" (as Nick Ballard described him to me) mainly because of what I'm aware of
+
+This
+
+
+The https://libcom.org/article/acorn-no-mighty-oak article depict Wade as a union busting authoritarian. Wade is frequently invited to ACORN UK events though (e.g. turning up to the ACORN Sheffield Annual General Meeting for the end of 2023) and if you ask Nick Ballard about it he will say that the IWW are ultra-leftists and they don't really have a valid criticism, and in fact Wade is a "genius" who deserves his guru status in ACORN UK.
+
+I find the Libcom article more convincing than Nick Ballard's perspective (I have listened to the Wade's World podcast and am not convinced that this man is a genius) but it would be useful to get people from IWW (in London where they fell out )
+
+More generally, I have been informed that ACORN has fallen out with different left wing groups, e.g. IWW branch in UK in
 
 * TODO Publicly talking about our issues
 This is my opinion that is probably the most disagreed with and caused me to get shouted at by ACORN members who are otherwise in complete agreement that ACORN needs reform. I think there is kind of a taboo on the left about being critical, and this comes from mentality people have about
@@ -53,27 +114,5 @@ This would be a good supplement to how we already inform people of what we've be
 - any other user submissions
   - suggestions, feedback, constructive criticism, etc.
   - news that is important to tenants
-* TODO List of things I think could be changed to improve ACORN
-In my opinion, most of these suggestions couldn't happen without first democraticising ACORN (because making an ACORN branch effective seems to be quickest way for them to be shut down ACORN National), but leaving that aside I have list of things I think could make ACORN run better:
-** ACORN Handbook, Bylaws, and Legal Advice shouldn't be on a Google Doc
-Keeping all important and useful information on Google Docs is not the way. A lot of it does not make sense to be kept private, or the reasons for keeping it private are massively outweighed by problems this creates. For example, legal advice to avoid us getting sued. Its nightmare actually finding this. There was a google doc for it but the link randomly changed. The only way for a member to find this is to ask a committee member for it, and like this is a big hassle. Even when you have a link to it it can just randomly change.
-
-** Only use staff for things staff /need/ to do
-Currently it seems staff are used for door-knocking. Like this seems like a waste of resources
-** Make a free-tier way to join as a member
-Have a free-tier for people to be involved without having to pay for membership
-
-** TODO How ACORN handles member defense cases that can be improved
-- explain hot take about things that seem obviously counterproductive about how ACORN member defense cases work.
-
-** TODO Separate the function
-
-For example, sole function o
-Currently the sole responsibility for agitprop falls f
-
-As far as I know there is big gap in type of training that we do for
-
-Separate the person from the function that they are meant to be doing. The way ACORN currently
-
 * TODO Zines, TikToks, artwork, etc
 I am getting more into drawing and art, making music, etc. and feel that lots of people in same boat as me, like wanting to work on creative projects. ACORN
