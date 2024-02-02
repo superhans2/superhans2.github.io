@@ -1,10 +1,10 @@
-#+title: what is up with ACORN?
+#+title: What is up with ACORN?
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
 
 This is personal blog for ideas & resources I think are useful for tenant organising. If people want to help with anything let me know.
 
 * index
-- [[file:issues.org][issues with ACORN]]   <- Read this overview first
-- [[file:reading-list.org][reading list]]
-- [[file:ideas.org][rough ideas]]
-- [[file:mapping acorn.org][ACORN's structure]]
+- [[file:issues.org][Issues with ACORN UK]]   <- Read this overview first
+- [[file:reading-list.org][Reading list]]
+- [[file:ideas.org][Rough ideas]]
+- [[file:mapping acorn.org][Mapping ACORN]]

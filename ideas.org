@@ -1,8 +1,8 @@
-#+title: rough ideas
+#+title: Rough ideas
 #+OPTIONS: toc:1
 #+OPTIONS: tasks:nil
 
-* mapping ACORN's structure
+* Mapping ACORN's structure
 Started working on this here: [[file:mapping acorn.org][mapping acorn page.]]
 
 - Want to create a resource that explains ACORN's structure, legal status, rules, etc.
@@ -12,7 +12,7 @@ Started working on this here: [[file:mapping acorn.org][mapping acorn page.]]
   - is ACORN reformable using its democratic processes
   - what would a branch be losing if they decide to disaffiliate from ACORN (e.g. doing what ACORN Lancaster did or splitters in ACORN Manchester did)
 
-* money questions
+* Money questions
 ** making it obvious to all members where the money is being spent
 I want to find out how ACORN spends its money, maybe as part of the [[file:mapping acorn.org][mapping acorn page]]. Its almost £1,000,000 per year, where does this all go? Heard someone mention that in previous conference there is pie-chart breaking it down, but like really this should be easily accessible to any member who is interested.
 
@@ -22,14 +22,14 @@ Given ACORN UK is barely growing and uses paid staff for things like door knocki
 ** who are the third parties funding ACORN?
 Another point, ACORN is not (AFAIK) transparent with where their money is coming from as a big chunk is not from member dues. Are there strings attached to this money? What are the institutions paying us? Been told the Rosa Luxembourg Institute are one example.
 
-* making youtube documentary on ACORN Oxford
+* Making youtube documentary on ACORN Oxford
 ACORN Oxford (before it was destroyed) was described to me as being a very active branch with 200 members and 60 active members (! this is a lot for ACORN branches). The only information I've come across about how it collapsed is word-of-mouth and the [[file:resources/demand letters/copy-of-acorn-oxford-demands.pdf][demand letter]] that they put out before collapsing.
 
 I want to find out what happened to ACORN Oxford and make mini-youtube documentary, maybe interviewing people who set up ACORN Oxford and made it so active and also why it collapsed.
 
 I think same thing could be done for ACORN Aberyswythe, Lancaster, basically every branch where there has been a significant split or mass exodus of members which also includes (AFAIK) Manchester, Newcastle and Sheffield.
 
-* how do atomised ACORN members organise?
+* How do atomised ACORN members organise?
 If ACORN National is actively hostile to attempts amongst members to democratise the organisation (maybe to hold onto the privileged positions and cushy jobs that make them feel important) then it seems unlikely that they will want members to
 
 This is actually a difficult problem
