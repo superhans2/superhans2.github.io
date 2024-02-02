@@ -12,6 +12,13 @@ Started working on this here: [[file:mapping acorn.org][mapping acorn page.]]
   - is ACORN reformable using its democratic processes
   - what would a branch be losing if they decide to disaffiliate from ACORN (e.g. doing what ACORN Lancaster did or splitters in ACORN Manchester did)
 
+* Making youtube documentary on ACORN Oxford
+ACORN Oxford (before it was destroyed) was described to me as being a very active branch with 200 members and 60 active members (! this is a lot for ACORN branches). The only information I've come across about how it collapsed is word-of-mouth and the [[file:resources/demand letters/copy-of-acorn-oxford-demands.pdf][demand letter]] that they put out before collapsing.
+
+I want to find out what happened to ACORN Oxford and make mini-youtube documentary, maybe interviewing people who set up ACORN Oxford and made it so active and also why it collapsed.
+
+I think same thing could be done for ACORN Aberyswythe, Lancaster, basically every branch where there has been a significant split or mass exodus of members which also includes (AFAIK) Manchester, Newcastle and Sheffield.
+
 * Money questions
 ** making it obvious to all members where the money is being spent
 I want to find out how ACORN spends its money, maybe as part of the [[file:mapping acorn.org][mapping acorn page]]. Its almost £1,000,000 per year, where does this all go? Heard someone mention that in previous conference there is pie-chart breaking it down, but like really this should be easily accessible to any member who is interested.
@@ -21,18 +28,6 @@ Given ACORN UK is barely growing and uses paid staff for things like door knocki
 
 ** who are the third parties funding ACORN?
 Another point, ACORN is not (AFAIK) transparent with where their money is coming from as a big chunk is not from member dues. Are there strings attached to this money? What are the institutions paying us? Been told the Rosa Luxembourg Institute are one example.
-
-* Making youtube documentary on ACORN Oxford
-ACORN Oxford (before it was destroyed) was described to me as being a very active branch with 200 members and 60 active members (! this is a lot for ACORN branches). The only information I've come across about how it collapsed is word-of-mouth and the [[file:resources/demand letters/copy-of-acorn-oxford-demands.pdf][demand letter]] that they put out before collapsing.
-
-I want to find out what happened to ACORN Oxford and make mini-youtube documentary, maybe interviewing people who set up ACORN Oxford and made it so active and also why it collapsed.
-
-I think same thing could be done for ACORN Aberyswythe, Lancaster, basically every branch where there has been a significant split or mass exodus of members which also includes (AFAIK) Manchester, Newcastle and Sheffield.
-
-* How do atomised ACORN members organise?
-If ACORN National is actively hostile to attempts amongst members to democratise the organisation (maybe to hold onto the privileged positions and cushy jobs that make them feel important) then it seems unlikely that they will want members to
-
-This is actually a difficult problem
 
 * Coming up with ideas of things I think could be changed to improve ACORN
 In my opinion, most of these suggestions couldn't happen without first democraticising ACORN because many of the reasons ACORN functions so poorly is deliberate (or at least I suspect), but leaving that aside I have list of things I think could make ACORN run better:
@@ -62,12 +57,16 @@ As far as I know there is big gap in type of training that we do for
 
 Separate the person from the function that they are meant to be doing. The way ACORN currently
 
-* TODO What happened to the 2023 ACORN conference?
-* TODO trying to describe part of ACORN's culture that is so stifling
-* TODO Reform or just split?
+* How do atomised ACORN members organise?
+If ACORN National is actively hostile to attempts amongst members to democratise the organisation (maybe to hold onto the privileged positions and cushy jobs that make them feel important) then it seems unlikely that they will want members to
+
+This is actually a difficult problem
+
+* What happened to the 2023 ACORN conference?
+* Reform or just split?
 This breaks down into multiple questions, like can ACORN be reformed? There are
 
-* TODO Is Wade Rathke a (union) landlord?
+* Is Wade Rathke a (union) landlord?
 This seems like could be fun & effective rhetorical device, like painting people who sit at the top of unions and enjoying benefits from this position as being form of landlord.
 
 This is a parallel of what happens to NGOs, and why so many NGOs are ineffective. It is also something heavily theorised
@@ -76,10 +75,7 @@ This is also topic I'm assuming has been heavily explored by Marxist/Anarchist t
 
 , to draw a connection between the rent that someone like Wade makes jet setting around globe, drawing a salary from an NGO.
 
-* TODO culture of fear is so stifling
-Everything I've posted on this site is
-
-* TODO discussion on social media and WhatsApp
+* discussion on social media and WhatsApp
 I love the [[https://cosmonaut.blog/2021/03/06/the-platform-is-the-message/][cosmonaut article "The platform is the message"]]. It describes some of the difficulties of organising using social media. They use the idea from media studies theory that the "medium is the message": the structure of a communication platform massively shapes the message.
 
 In ACORN context, the only meaningful communication that most members can take part in happens in AMMs.
@@ -96,14 +92,7 @@ I find the Libcom article more convincing than Nick Ballard's perspective (I hav
 
 More generally, I have been informed that ACORN has fallen out with different left wing groups, e.g. IWW branch in UK in
 
-* TODO Publicly talking about our issues
-This is my opinion that is probably the most disagreed with and caused me to get shouted at by ACORN members who are otherwise in complete agreement that ACORN needs reform. I think there is kind of a taboo on the left about being critical, and this comes from mentality people have about
-
-Weekly Worker and Cosmonaut are both part of particular strain of Marxist that have unusual position with regard to this question. They are far more free speech, and this is not a popular position in mainstream left wing spaces, and so I've never actually felt I can confidently explain it (also owing to my half-baked understanding of most left wing ideas anyway).
-
-I want to get something into Cosmonaut or Weekly Worker. There are lots of people who are interested in building a tenant union, although they are outside of ACORN. I like the work that is published in Cosmonaut Magazine which is American Marxist publication, also work in Weekly Worker that is UK old-head Marxist publication, but I know for sure there are other publications that would also be sympathetic and probably accept articles we send in if they are framed in a way that is accessible and something that fits into ongoing
-
-* TODO would be cool to have ACORN newsletters
+* would be cool to have ACORN newsletters
 Create a news letter that is Member Led. Every few weeks we could publish new News Letter through FB, WhatsApp, email, whatever. The newsletter could be very casual informal content like thoughts people have, suggestions, artwork, whatever. It would be edited together to make something that should inform both peripheral Acorn members as well as non-Acorn members (e.g. if we shared on FB).
 
 This would be a good supplement to how we already inform people of what we've been up to, which is having them explained during an AMM.
@@ -116,3 +105,9 @@ This would be a good supplement to how we already inform people of what we've be
   - news that is important to tenants
 * TODO Zines, TikToks, artwork, etc
 I am getting more into drawing and art, making music, etc. and feel that lots of people in same boat as me, like wanting to work on creative projects. ACORN
+* TODO Publicly talking about our issues
+This is my opinion that is probably the most disagreed with and caused me to get shouted at by ACORN members who are otherwise in complete agreement that ACORN needs reform. I think there is kind of a taboo on the left about being critical, and this comes from mentality people have about
+
+Weekly Worker and Cosmonaut are both part of particular strain of Marxist that have unusual position with regard to this question. They are far more free speech, and this is not a popular position in mainstream left wing spaces, and so I've never actually felt I can confidently explain it (also owing to my half-baked understanding of most left wing ideas anyway).
+
+I want to get something into Cosmonaut or Weekly Worker. There are lots of people who are interested in building a tenant union, although they are outside of ACORN. I like the work that is published in Cosmonaut Magazine which is American Marxist publication, also work in Weekly Worker that is UK old-head Marxist publication, but I know for sure there are other publications that would also be sympathetic and probably accept articles we send in if they are framed in a way that is accessible and something that fits into ongoing

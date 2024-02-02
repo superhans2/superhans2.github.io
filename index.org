@@ -6,5 +6,5 @@ This is personal blog for ideas & resources I think are useful for tenant organi
 * index
 - [[file:issues.org][Issues with ACORN UK]]   <- Read this overview first
 - [[file:reading-list.org][Reading list]]
-- [[file:ideas.org][Rough ideas]]
 - [[file:mapping acorn.org][Mapping ACORN]]
+- [[file:ideas.org][Rough ideas]]
