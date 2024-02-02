@@ -1,13 +1,9 @@
-:PROPERTIES:
-:ID:       d60ece83-70d8-4274-826b-e21dd018080f
-:END:
 #+title: Mapping Acorn
 
-WORK IN PROGRESS (I will put in a lot more detail)
-
-This is an explanation of ACORNs structure, rules, etc.
+WORK IN PROGRESS
 
 If you are a member you can find out how ACORN works through their handbook. I don't think most members even know this exists, let alone have access to it. It is the best way to find out though.
 
-#+CAPTION:
-[[attachment:_20240201_234923screenshot.png]]
+#+CAPTION: ACORN UK Org Chart
+#+attr_html: :width 95%
+[[./images/Org-Chart.png]]

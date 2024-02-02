@@ -1,6 +1,8 @@
-#+title: reading list
+#+title: resources for tenant organising
 
 Material useful for tenant/community organising I have been recommended.
+
+Will add more, so far is just the ACORN Oxford reading list.
 
 * ACORN Oxford reading list
 [[./resources/oxford-reading-group/064 Axioms For Organizers.pdf][Axioms For Organizers]]
@@ -24,8 +26,3 @@ Material useful for tenant/community organising I have been recommended.
 [[./resources/oxford-reading-group/Tenants_Association_Handbook_ENG_V4.pdf][Tenants Association Handbook]]
 
 [[./resources/oxford-reading-group/The_Black_Panther_Party_s Serve the People Programmes EXTRACTS.pdf][The Black Panther Party's Serve the People Programmes EXTRACTS]]
-
-
-* Things I've been recommended:
-- Jane McAlevey
-- Neither Horizontal nor Vertical
