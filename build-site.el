@@ -8,6 +8,15 @@
       org-html-include-default-style nil
       org-html-head "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" />")
 
+(defun read-template (filename)
+  "Read template contents from FILENAME."
+  (with-temp-buffer
+    (insert-file-contents filename)
+    (buffer-string)))
+
+(setq header-nav (read-template "template-html/nav-bar.html"))
+
+
 (setq org-publish-project-alist
       (list (list "my-org-site"
                   :recursive t
@@ -17,6 +26,7 @@
                   :with-author nil
                   :with-creator nil
                   :with-toc nil
+                  :html-preamble header-nav ;'generate-nav-bar
                   :section-numbers nil
                   :time-stamp-file nil)))
 
