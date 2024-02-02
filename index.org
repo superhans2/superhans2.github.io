@@ -3,7 +3,7 @@
 
 This is personal blog for ideas & resources I think are useful for tenant organising.
 
-- [[file:issues.org][issues with ACORN]]   <- summary of issues in ACORN UK
+- [[file:issues.org][issues with ACORN]]   <- Read this overview first
 - [[file:reading-list.org][reading list]]
 - [[file:ideas.org][rough ideas]]
 - [[file:mapping acorn.org][ACORN's structure]]

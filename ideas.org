@@ -1,41 +1,22 @@
-#+title: Ideas
+#+title: rough ideas
 #+OPTIONS: toc:1
-
-* Zines, tiktoks, artwork, etc
-Seems completely obvious that art is important to tenant unions, and
-
-Despite being filled with really creative people,
-
-Why are all ACORN spaces so boring?
-
-This seems like a really good thing to
-
-* Education is important
-This is a hot-take in ACORN circles but political education is necessary, not something that we can avoid.
-
-So many reasons about why education is important for ACORN to effectively run and also so many wildly different attitudes.
-
-We need to learn from other organisations so we know what we need to be avoiding and what we need to be aiming towards.
-
-I am thinking of the Comrade Delta scandal that occurred in the SWP.
-
-examples of what we are trying to avoid. Comrade Delta scandal that effected SWP. What caused this to happen? What are lessons? Labour Party anti-democratic purging. What is way to prevent right wing bureaucracy controlling organisation behind the scenes?
-
-Alternatively what are organisations that don't have this problem, what are the qualities in these organisations?
+#+OPTIONS: tasks:nil
 
 * Mapping ACORN's structure
 Want to create an factual resource that explains ACORN's structure, rules, etc. that all members should get if the handbook was actually accessible. Maybe some explanation of things like what ACORN provides us (e.g. thing about it providing legal insurance, not sure what this was called?) Particular things I'm want to explain about ACORN are things relevant to questions like: can we use ACORN's democratic procedures to reform it and how? or what does ACORN provide us that a branch would lose through disaffiliating.
 
 Started this on this [[file:mapping acorn.org][mapping acorn page.]]
 
+Not sure
+
 * Finding out what happened to ACORN Oxford
-ACORN Oxford has been described to me as being a very active branch with 200 members and 60 (!) active members. When it collapsed (or destroyed by National?) it seems not to have been able to survive (might be because the organisers who set it up all burnt out or there was something that ACORN was providing that they could not replicate on their own).
+ACORN Oxford has been described to me as being a very active branch with 200 members and 60 active members (! this is a lot for ACORN branches). When it collapsed (or destroyed by National?) it seems not to have been able to survive (might be because the organisers who set it up all burnt out or there was something that ACORN was providing that they could not replicate on their own).
 
 I want to find out what happened to ACORN Oxford, maybe Youtube mini-documentary style that looks from perspective of different people, e.g. would be great to see it from perspective of the organisers in Oxford, and also speculate/or just ask National's issues with way ACORN operated.
 
-Could also do same thing for ACORN Aberyswythe and Lancaster if if it is possible. If anyone wants to work on this with me like definitely let me know.
+I think same thing could be done for ACORN Aberyswythe, Lancaster, basically every branch where there has been a significant split or mass exodus of members which also includes (AFAIK) Manchester, Newcastle and Sheffield.
 
-* Reaching out to IWW
+* Reaching out to IWW for comment about Wade
 The https://libcom.org/article/acorn-no-mighty-oak article (and IWW articles available online) depict Wade as a union busting authoritarian. Wade is frequently invited to ACORN UK events though (e.g. turning up to the ACORN Sheffield Annual General Meeting for the end of 2023) and if you ask Nick Ballard about it he will say that the IWW are ultra-leftists and they don't really have a valid criticism, and in fact Wade is a "genius" who deserves his guru status in ACORN UK.
 
 I find the Libcom article more convincing than Nick Ballard's perspective (I have listened to the Wade's World podcast and am not convinced that this man is a genius) but it would be useful to get people from IWW (in London where they fell out )
@@ -54,8 +35,7 @@ I think the thinking of
 
 I am using this website because there isn't anything else to use, but it isn't great, mainly because it is just for me. If people want to reply to anything I am writing they need to know me. If they want to use this website to host it so that other people can easily access it they need to go through me, so it isn't democratic. Ideally would be some union-wide platform that can be used.
 
-
-* TODO Publically talking about our issues
+* TODO Publicly talking about our issues
 This is my opinion that is probably the most disagreed with and caused me to get shouted at by ACORN members who are otherwise in complete agreement that ACORN needs reform. I think there is kind of a taboo on the left about being critical, and this comes from mentality people have about
 
 Weekly Worker and Cosmonaut are both part of particular strain of Marxist that have unusual position with regard to this question. They are far more free speech, and this is not a popular position in mainstream left wing spaces, and so I've never actually felt I can confidently explain it (also owing to my half-baked understanding of most left wing ideas anyway).
@@ -94,3 +74,6 @@ Currently the sole responsibility for agitprop falls f
 As far as I know there is big gap in type of training that we do for
 
 Separate the person from the function that they are meant to be doing. The way ACORN currently
+
+* TODO Zines, TikToks, artwork, etc
+I am getting more into drawing and art, making music, etc. and feel that lots of people in same boat as me, like wanting to work on creative projects. ACORN
