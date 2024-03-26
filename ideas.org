@@ -63,10 +63,10 @@ If ACORN National is actively hostile to attempts amongst members to democratise
 This is actually a difficult problem
 
 * What happened to the 2023 ACORN conference?
-* Reform or just split?
+* TODO Reform or just split?
 This breaks down into multiple questions, like can ACORN be reformed? There are
 
-* Is Wade Rathke a (union) landlord?
+* TODO Is Wade Rathke a (union) landlord?
 This seems like could be fun & effective rhetorical device, like painting people who sit at the top of unions and enjoying benefits from this position as being form of landlord.
 
 This is a parallel of what happens to NGOs, and why so many NGOs are ineffective. It is also something heavily theorised
@@ -75,7 +75,7 @@ This is also topic I'm assuming has been heavily explored by Marxist/Anarchist t
 
 , to draw a connection between the rent that someone like Wade makes jet setting around globe, drawing a salary from an NGO.
 
-* discussion on social media and WhatsApp
+* TODO discussion on social media and WhatsApp
 I love the [[https://cosmonaut.blog/2021/03/06/the-platform-is-the-message/][cosmonaut article "The platform is the message"]]. It describes some of the difficulties of organising using social media. They use the idea from media studies theory that the "medium is the message": the structure of a communication platform massively shapes the message.
 
 In ACORN context, the only meaningful communication that most members can take part in happens in AMMs.
@@ -92,7 +92,7 @@ I find the Libcom article more convincing than Nick Ballard's perspective (I hav
 
 More generally, I have been informed that ACORN has fallen out with different left wing groups, e.g. IWW branch in UK in
 
-* would be cool to have ACORN newsletters
+* TODO would be cool to have ACORN newsletters
 Create a news letter that is Member Led. Every few weeks we could publish new News Letter through FB, WhatsApp, email, whatever. The newsletter could be very casual informal content like thoughts people have, suggestions, artwork, whatever. It would be edited together to make something that should inform both peripheral Acorn members as well as non-Acorn members (e.g. if we shared on FB).
 
 This would be a good supplement to how we already inform people of what we've been up to, which is having them explained during an AMM.
