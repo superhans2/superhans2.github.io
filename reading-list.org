@@ -1,6 +1,4 @@
-#+title: resources for tenant organising
-
-Material useful for tenant/community organising I have been recommended.
+#+title: ACORN Oxford's reading list
 
 * ACORN Oxford reading list
 [[./resources/oxford-reading-group/064 Axioms For Organizers.pdf][Axioms For Organizers]]
@@ -25,6 +23,3 @@ Material useful for tenant/community organising I have been recommended.
 
 [[./resources/oxford-reading-group/The_Black_Panther_Party_s Serve the People Programmes EXTRACTS.pdf][The Black Panther Party's Serve the People Programmes EXTRACTS]]
 
-
-* Recommended to me
-[[file:resources/misc/Vicky Spratt Tenants4.pdf][Vicky Spratt - Tenants]]

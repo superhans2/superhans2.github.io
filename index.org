@@ -1,10 +1,39 @@
 #+title: What is up with ACORN?
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css">
 
-This is personal blog for ideas & resources I think are useful for tenant organising. If people want to help with anything let me know.
+ACORN is a community union with a focus on using direct action to defend tenants from from landlords who are refusing repairs, hiking rents, eviction, etc. If you don't know what ACORN UK is, this article by Callum Cant is a good explanation https://notesfrombelow.org/article/taking-whats-ours-an-acorn-inquiry.
 
-* index
-- [[file:issues.org][Issues with ACORN UK]]   <- Read this overview first
-- [[file:reading-list.org][Reading list]]
-- [[file:mapping acorn.org][Mapping ACORN]]
-- [[file:ideas.org][Rough ideas]]
+ACORN sounds great on paper but in my experience it has problems. 
+
+* resignation & demand letters
+** Aberystwyth
+#+attr_html: :width 95%
+[[./images/fuzzy picture.jpg]]
+
+#+attr_html: :width 95%
+[[./images/translated-from-welsh-article.jpg]]
+
+[[file:resources/demand letters/acorn-aberystwyth.pdf][Aberystwyth demand letter]]
+
+** Lancaster and Morecambe
+[[file:./resources/demand letters/Lancaster & Morecambe Letter.pdf][Lancaster & Morecambe resignation letter]]
+
+** Oxford
+[[file:resources/demand letters/copy-of-acorn-oxford-demands.pdf][Oxford demand letter]]
+This letter was signed by 60 members of ACORN Oxford (redacted the signatures from this copy of letter).
+
+(this was the [[file:reading-list.org][reading list]] of ACORN Oxford reading group before losing committee + lots of active members)
+
+** Sheffield
+[[file:resources/demand letters/ACORN Sheffield response.pdf][Sheffield demand letter]]
+
+* 4 years in ACORN Sheffield
+...Work in progress...
+(writing up account of personal experience in ACORN Sheffield)
+
+* other sources
+- https://libcom.org/article/acorn-no-mighty-oak
+- IWW articles:
+  - [[https://archive.iww.org/history/campaigns/acorn/speakout/32/][IWW Support the Acorn Workers Article]]
+  - [[https://archive.iww.org/history/campaigns/acorn/speakout/43/][An Analysis of Acorn's latest remarks]]
+

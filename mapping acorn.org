@@ -1,7 +1,0 @@
-#+title: Mapping ACORN
-
-Best way to understand ACORN is reading the Handbook (not here because you are not allowed to share it).
-
-#+CAPTION: ACORN UK Org Chart
-#+attr_html: :width 95%
-[[./images/Org-Chart.png]]

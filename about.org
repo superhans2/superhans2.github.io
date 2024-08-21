@@ -1,7 +1,19 @@
 #+title: about
 
-You can see revision history of this site https://github.com/superhans2/superhans2.github.io here.
+* helping with the site 
+I was kicked out of ACORN June 2024 after ~4 years of membership. I intend to write about my experiences in ACORN, and advice for people still participating in ACORN. After some point, it is unlikely I will have anything else to contribute. 
 
-There is also a Discord that is created by a friend for people interested in tenant organisation that you can reach:
+If you want to contribute anything to this site, feel free to get in touch at =cullen1087@gmail.com=. 
 
-=TODO put in a discord link=
+* site changes
+** 20/08/24
+- removed analysis of ACORN from issues page. Content in issues page is now mainly resignation/demand letters.
+- embedded issues page into the homepage
+- removed the rough ideas page. 
+- put in place a placeholder for an article I am writing on my experience in ACORN Sheffield. 
+- modified the about page
+  
+** 21/06/24 
+- Added in this "site changes" section because I am modifying the site, and want to be as transparent as this as possible so people understand what I am thinking if I make any drastic changes. 
+- modifying index page to change mission of page to be specifically about ACORN, not tenant unionising in general (since I am no longer part of ACORN it will be weird developing ideas about tenant unionisation on site about ACORN). 
+- removing the "Mapping ACORN page". I had wanted to create something that actually explains how ACORN is structured that we could use in reasoning about whether ACORN structure can be reformed. I am removing link to it for the time being because it is in incomplete state. 
