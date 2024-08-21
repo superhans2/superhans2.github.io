@@ -6,14 +6,8 @@ ACORN is a community union with a focus on using direct action to defend tenants
 ACORN sounds great on paper but in my experience it has problems. 
 
 * resignation & demand letters
-** Aberystwyth
-#+attr_html: :width 95%
-[[./images/fuzzy picture.jpg]]
-
-#+attr_html: :width 95%
-[[./images/translated-from-welsh-article.jpg]]
-
-[[file:resources/demand letters/acorn-aberystwyth.pdf][Aberystwyth demand letter]]
+** Sheffield
+[[file:resources/demand letters/ACORN Sheffield response.pdf][Sheffield demand letter]]
 
 ** Lancaster and Morecambe
 [[file:./resources/demand letters/Lancaster & Morecambe Letter.pdf][Lancaster & Morecambe resignation letter]]
@@ -24,8 +18,14 @@ This letter was signed by 60 members of ACORN Oxford (redacted the signatures fr
 
 (this was the [[file:reading-list.org][reading list]] of ACORN Oxford reading group before losing committee + lots of active members)
 
-** Sheffield
-[[file:resources/demand letters/ACORN Sheffield response.pdf][Sheffield demand letter]]
+** Aberystwyth
+#+attr_html: :width 95%
+[[./images/fuzzy picture.jpg]]
+
+#+attr_html: :width 95%
+[[./images/translated-from-welsh-article.jpg]]
+
+[[file:resources/demand letters/acorn-aberystwyth.pdf][Aberystwyth demand letter]]
 
 * 4 years in ACORN Sheffield
 ...Work in progress...
